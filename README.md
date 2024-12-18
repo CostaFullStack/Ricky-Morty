@@ -1,5 +1,3 @@
-Desculpe, aqui está o link com formatação para ficar clicável:
-
 # Rick and Morty API
 
 A Rick and Morty API é uma API RESTful que fornece acesso a uma vasta coleção de informações sobre a série animada Rick and Morty. Ela permite que desenvolvedores acessem e utilizem dados sobre personagens, episódios, locais e muito mais.
