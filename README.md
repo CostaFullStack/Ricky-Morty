@@ -37,4 +37,4 @@ Caso você queira contribuir com a API, fique à vontade para enviar pull reques
 
 ## Meu site da API
 
-[ricky-morty-alpha.vercel.app/](ricky-morty-alpha.vercel.app/)
+https://ricky-morty-alpha.vercel.app/
